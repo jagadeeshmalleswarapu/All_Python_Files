@@ -1,0 +1,7 @@
+1. Pyautogui
+2. OpenPyExcel
+3. PyWinAuto
+4. Selenium
+5. PyTesseract
+6. PyPDF2
+7. OpenCV
