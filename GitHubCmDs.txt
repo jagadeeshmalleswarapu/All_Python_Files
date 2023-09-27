@@ -1,0 +1,7 @@
+git init
+git branch -m master main
+git add .
+git status
+git commit -m "comment"
+git remote add origin "link:HTTPs"
+git push -u origin main (or) git push -u -f origin main
